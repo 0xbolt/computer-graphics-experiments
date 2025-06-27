@@ -1,10 +1,10 @@
 #pragma once
 
-class alignas(16) double3 {
+class double3 {
 public:
     double x, y, z;
 
-    double3() : x(0), y(0), z(0), pad(0) { }
+    double3() : x(0), y(0), z(0) { }
     double3(double x, double y, double z) : x(x), y(y), z(z) { }
 
     double3 operator-() const { return double3(-x, -y, -z); }
@@ -27,7 +27,4 @@ public:
         *this *= 1 / t;
         return *this;
     }
-
-private:
-    double pad;
 };
