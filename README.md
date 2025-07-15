@@ -3,4 +3,4 @@ Computer Graphics Experiments.
 ## Projects
 | Project                  | Description                |
 |--------------------------|----------------------------|
-| mandelbrot-set-viewer    | Mandelbrot set visualization|
+| [mandelbrot-set-viewer](mandelbrot-set-viewer) | Mandelbrot set visualization|
