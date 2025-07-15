@@ -1,7 +1,7 @@
 # computer-graphics-experiments
 Computer Graphics Experiments.
-## Projects
-| Project                  | Description                |
+## Experiments
+| Name                  | Description                |
 |--------------------------|----------------------------|
 | [mandelbrot-set-viewer](mandelbrot-set-viewer) | Dynamic Mandelbrot set viewer in C++ |
-| [microvdb](microvdb) | Minimal implementation of OpenVDB in Python |
+| [microvdb](microvdb) | Toy implementation of OpenVDB in Python |
