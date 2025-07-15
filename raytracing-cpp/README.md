@@ -18,6 +18,6 @@ cmake --build .
 
 ## References
 - [Ray Tracing In One Weekend](https://raytracing.github.io)
-- Fundamentals of Computer Graphics 4th Edition
-- Real Time Rendering 4th Edition
-- Physically Based Rendering 4th Edition
+- Fundamentals of Computer Graphics (4th Edition)
+- Real Time Rendering (4th Edition)
+- Physically Based Rendering (4th Edition)
