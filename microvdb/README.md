@@ -7,3 +7,4 @@ A toy implementation of OpenVDB in Python.
 - [OpenVDB: An Open Source Data Structure and Toolkit for High-Resolution Volumes](https://www.youtube.com/watch?v=7hUH92xwODg)
 - [OpenVDB in Houdini | SIGGRAPH 2015](https://www.youtube.com/watch?v=0aA-Pkg3gns)
 - [OpenVDB - Ken Museth, NVIDIA & Jeff Lait, SideFX](https://www.youtube.com/watch?v=rhSf9L2F7Jg)
+- [Walt Disney Animation Studio Clouds Dataset](https://disneyanimation.com/resources/clouds/)
